@@ -6,3 +6,4 @@ langchain_experimental
 requests
 pandas
 matplotlib
+plotly
